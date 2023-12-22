@@ -35,11 +35,12 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Dashboard Previews
+## Dashboard Preview
 ![image](https://github.com/TylerM-16/Financial-Sample-Data-Dashboard-Using-PowerBI-Project/assets/150025850/3e22cd6d-65eb-47d9-8134-bf32389f7300)
 
-Example (France insights using Slicer):
-![image](https://github.com/TylerM-16/Financial-Sample-Data-Dashboard-Using-PowerBI-Project/assets/150025850/83d065c5-1c03-47f5-b889-6ae73be982d1)
+## Example (France insights using Slicer):
+![image](https://github.com/TylerM-16/Financial-Sample-Data-Dashboard-Using-PowerBI-Project/assets/150025850/7927543e-7ce4-4b07-97c8-b89ce5054f63)
+
 
 
 
