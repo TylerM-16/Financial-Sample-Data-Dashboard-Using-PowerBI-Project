@@ -8,16 +8,16 @@ Data integrity is crucial for accurate analysis, and to ensure this, contributor
 
 ## Features
 
-1. **Total Sales by Country:**
+1. **Total Sales by Country (Bar Chart):**
    - Visual representation of total sales figures for each country.
 
-2. **Sales by Product:**
+2. **Sales by Product (Bar Chart):**
    - Breakdown of sales figures categorized by different products.
 
-3. **Profit & Loss by Segment:**
+3. **Profit & Loss by Segment (Bar Chart):**
    - Comprehensive view of profit and loss across different segments.
 
-4. **Total Sales by Month:**
+4. **Total Sales by Month (Bar Chart):**
    - Time-based analysis displaying total sales figures on a monthly basis.
 
 5. **Slicer for Deeper Analysis:**
